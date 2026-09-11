@@ -56,8 +56,8 @@ The notebook follows this path:
                 │
                 ▼
         ┌───────────────┐
-        │ Data Inspection│
-        │ info / describe│
+        │Data Inspection│
+        │info / describe│
         └───────┬───────┘
                 │
                 ▼
